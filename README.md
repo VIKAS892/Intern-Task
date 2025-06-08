@@ -23,5 +23,4 @@ Vikas Three is a [short description of what the project does – e.g., "a person
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/vikas-three.git
-   cd vikas-three
+   git clone https://github.com/VIKAS892/Intern-Task/tree/main
